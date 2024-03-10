@@ -1,0 +1,298 @@
+[
+  {
+    "id_bot": "st",
+    "name_item": "Палка",
+    "craft_xp": 0.25,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "pl",
+    "name_item": "Доска",
+    "craft_xp": 0.5,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "wd",
+    "name_item": "Бревно",
+    "craft_xp": 2.0,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "sg",
+    "name_item": "Нить",
+    "craft_xp": 0.5,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "af",
+    "name_item": "Жир",
+    "craft_xp": 0.5,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "fr",
+    "name_item": "Перо",
+    "craft_xp": 1.0,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "ft",
+    "name_item": "Кремень",
+    "craft_xp": 1.0,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "pp",
+    "name_item": "Бумага",
+    "craft_xp": 1.0,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "gb",
+    "name_item": "Глина",
+    "craft_xp": 0.4,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "sd",
+    "name_item": "Песок",
+    "craft_xp": 0.4,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "gs",
+    "name_item": "Стекло",
+    "craft_xp": 1.0,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": null,
+    "name_item": "Свето-пыль",
+    "craft_xp": 1.0,
+    "smit_xp": 0.0,
+    "magic_xp": 1.0,
+    "create_xp": 9.0
+  },
+  {
+    "id_bot": "bk",
+    "name_item": "Кирпич",
+    "craft_xp": 0.8,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "сs",
+    "name_item": "Булыжник",
+    "craft_xp": 0.8,
+    "smit_xp": 0.25,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "sn",
+    "name_item": "Камень",
+    "craft_xp": 1.5,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "ss",
+    "name_item": "Гладкий камень",
+    "craft_xp": 2.0,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "сl",
+    "name_item": "Уголь",
+    "craft_xp": 0.9,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "qz",
+    "name_item": "Кварц",
+    "craft_xp": 2.0,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "rs",
+    "name_item": "Красная пыль",
+    "craft_xp": 1.8,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "lt",
+    "name_item": "Кожа",
+    "craft_xp": 2.5,
+    "smit_xp": 0.5,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "wf",
+    "name_item": "Ткань",
+    "craft_xp": 3.0,
+    "smit_xp": 0.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "cp",
+    "name_item": "Кольчужная пластина",
+    "craft_xp": 5.5,
+    "smit_xp": 11.5,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "in",
+    "name_item": "Жел самородок",
+    "craft_xp": 0.5,
+    "smit_xp": 1.1,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "ii",
+    "name_item": "Железо",
+    "craft_xp": 5.0,
+    "smit_xp": 10.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "gn",
+    "name_item": "Зол самородок",
+    "craft_xp": 0.7,
+    "smit_xp": 1.3,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "gi",
+    "name_item": "Золото",
+    "craft_xp": 6.0,
+    "smit_xp": 12.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "sr",
+    "name_item": "Стал кольцо",
+    "craft_xp": 0.3,
+    "smit_xp": 1.25,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "ssn",
+    "name_item": "Стал самородок",
+    "craft_xp": 0.7,
+    "smit_xp": 1.6,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "sp",
+    "name_item": "Стал пластина",
+    "craft_xp": 6.0,
+    "smit_xp": 15.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "si",
+    "name_item": "Сталь",
+    "craft_xp": 6.0,
+    "smit_xp": 15.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "rb",
+    "name_item": "Рубин",
+    "craft_xp": 2.5,
+    "smit_xp": 13.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "ct",
+    "name_item": "Цинзит",
+    "craft_xp": 3.0,
+    "smit_xp": 13.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "ob",
+    "name_item": "Обсидиан",
+    "craft_xp": 8.0,
+    "smit_xp": 2.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "dm",
+    "name_item": "Алмаз",
+    "craft_xp": 10.0,
+    "smit_xp": 14.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "em",
+    "name_item": "Изумруд",
+    "craft_xp": 11.0,
+    "smit_xp": 11.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "np",
+    "name_item": "Нептуний",
+    "craft_xp": 6.0,
+    "smit_xp": 15.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  },
+  {
+    "id_bot": "nz",
+    "name_item": "Незерит",
+    "craft_xp": 20.0,
+    "smit_xp": 20.0,
+    "magic_xp": 0.0,
+    "create_xp": 0.0
+  }
+]
